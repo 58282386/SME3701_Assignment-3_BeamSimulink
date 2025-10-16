@@ -1,0 +1,2 @@
+# SME3701_Assignment-3_BeamSimulink
+BeamSimulink
